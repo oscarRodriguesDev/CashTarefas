@@ -22,7 +22,7 @@ html, body {
   height: 100%;
 }
 
-/* Media query para dispositivos móveis */
+/* Media query para dispositivos móveis*/
 @media (min-width: 576px) {
   .admin-container {
     margin: 0 auto;
