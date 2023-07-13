@@ -1,13 +1,32 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+ul {
+  list-style: none;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#titleAPP {
+  color: rgb(238, 150, 57);
+  border: 1px solid grey;
+
+}
+
+/* index.css */
+
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#root {
+  height: 100%;
+}
+
+/* Media query para dispositivos móveis */
+@media (min-width: 576px) {
+  .admin-container {
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 20px;
+  }
 }
