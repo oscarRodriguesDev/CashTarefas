@@ -9,7 +9,6 @@ function App() {
   return (
     <Router>
       <Routes>
-       
         <Route path="CashTarefas/" element={<Admin />} />
         <Route path="#Tarefeiro/" element={<Tarefeiro />} />
       </Routes>
