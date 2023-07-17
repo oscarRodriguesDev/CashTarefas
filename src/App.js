@@ -11,13 +11,13 @@ function App() {
       <Routes>
        
         <Route path="CashTarefas/" element={<Admin />} />
-        <Route path="/Tarefeiro/" element={<Tarefeiro />} />
+        <Route path="Tarefeiro/" element={<Tarefeiro />} />
       </Routes>
     </Router>
   );
 }
 /**comentario para tentar subir no git
- * precisa ter mais de uma linha
+
  */
 export default App;
 
