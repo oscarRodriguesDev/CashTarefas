@@ -1,7 +1,9 @@
 import React from 'react';
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Admin = () => {
+
   return (
     <div className='container-fluid' id="admin">
       <h1 className="h4">Admin</h1>
