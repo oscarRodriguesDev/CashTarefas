@@ -9,8 +9,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Admin />} />
-        <Route path="Tarefeiro" element={<Tarefeiro />} />
+        <Route path="CashTarefas/" element={<Admin />} />
+        <Route path="CashTarefas/Tarefeiro" element={<Tarefeiro />} />
       </Routes>
     </Router>
   );
