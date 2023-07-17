@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CashTarefas/static/css/main.fa73a41f.css",
-    "main.js": "/CashTarefas/static/js/main.f483450c.js",
+    "main.js": "/CashTarefas/static/js/main.68ddc1ec.js",
     "static/js/787.502be93e.chunk.js": "/CashTarefas/static/js/787.502be93e.chunk.js",
     "index.html": "/CashTarefas/index.html",
     "main.fa73a41f.css.map": "/CashTarefas/static/css/main.fa73a41f.css.map",
-    "main.f483450c.js.map": "/CashTarefas/static/js/main.f483450c.js.map",
+    "main.68ddc1ec.js.map": "/CashTarefas/static/js/main.68ddc1ec.js.map",
     "787.502be93e.chunk.js.map": "/CashTarefas/static/js/787.502be93e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa73a41f.css",
-    "static/js/main.f483450c.js"
+    "static/js/main.68ddc1ec.js"
   ]
 }
