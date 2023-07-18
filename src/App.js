@@ -8,7 +8,7 @@ import Tarefeiro from './Components/Tarefeiro';
 function App() {
   return (
     <Router>
-      <Routes>
+      <Routes >
         <Route path="CashTarefas/" element={<Admin />} />
         <Route path="/CashTarefas/Tarefeiro" element={<Tarefeiro />} />
       </Routes>
